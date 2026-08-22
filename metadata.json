@@ -1,0 +1,6 @@
+{
+  "name": "Valku Sarvaiya",
+  "description": "All-in-one social super-app featuring chat, voice/video calls, status stories, social feed, short reels & long videos, mini games, Gemini AI assistant, and contact invite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
